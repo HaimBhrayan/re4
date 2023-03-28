@@ -51,7 +51,7 @@ h1{
 .imagem{
     margin: auto;
     height: 30vw;
-    width: 100%;
+    width: 90%;
     border-radius: 5px 5px 5px 5px;
     box-shadow: 10px 10px 10px 10px inset rgba(0, 0, 0, 0.281);
     background-image: url(../imgs/leon.jpg);
@@ -64,7 +64,7 @@ h1{
     box-shadow: 10px 10px 10px 10px inset rgba(0, 0, 0, 0.281);
     margin: auto;
     height: 30vw;
-    width: 100%;
+    width: 90%;
     border-radius: 5px 5px 5px 5px;
     background-image: url(../imgs/serra.jpg);
     background-repeat: no-repeat;
